@@ -7,7 +7,7 @@ echo color("red","| Auto create Gojek X Redeem voucher |\n");
 echo color("red","| github: CAU GANTENG |\n");
 echo color("red","| fanspage :CAU GANTENG|\n");
 echo color("red","| Creator : CAU-GANTENG.com          |\n");
-echo "| Version : Premium X pertalite      |\n";
+echo "| Version : CAU VS ITEM      |\n";
 echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
 echo " ===========================\n";
 
